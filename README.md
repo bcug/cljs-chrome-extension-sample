@@ -6,4 +6,4 @@ A Chrome extension that replaces occurrences of the words "scala" and "haskell" 
 ```
 lein chromebuild once
 ```
-Te unpacked extension will be in target/unpacked
+The unpacked extension will be in target/unpacked
