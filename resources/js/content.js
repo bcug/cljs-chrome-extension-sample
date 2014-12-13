@@ -1,0 +1,1 @@
+clojurifier.content.init();
